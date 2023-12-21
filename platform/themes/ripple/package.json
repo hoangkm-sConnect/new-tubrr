@@ -1,0 +1,6 @@
+{
+    "name": "@botble/ripple",
+    "devDependencies": {
+        "@fullhuman/postcss-purgecss": "^5.0.0"
+    }
+}
